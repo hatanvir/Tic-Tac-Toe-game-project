@@ -7,7 +7,7 @@ It's a tic Tac Toe game.You can play with multiple players.
  
  >If no one can not have cover three blocks, then the game will be tie.
  
- >Cheating is not allowed in this game.If anyone tries to double click then computer will cut 1 point from him automatically.
+ >Cheating is not allowed in this game.If anyone tries to double click,then computer will cut 1 point from him/her automatically.
  
 <b>App screenshot</b>
 
